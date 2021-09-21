@@ -3,7 +3,7 @@
 - 💬 Let's talk about IoT and tech
 - 💻 I’m currently learning Reactjs
 - 📫 Connect with this Social Geek here: [LinkedIn](https://www.linkedin.com/in/erick-saavedra-dev/) and [Twitter](https://twitter.com/ericksk_)
-- ⚡ Fun fact: I love cats
+- ⚡ Fun fact: I ♥ cats 
 
 <!--
 **erick-sk/erick-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
